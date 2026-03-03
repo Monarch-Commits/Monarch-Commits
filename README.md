@@ -2,6 +2,10 @@
 
 Frontend & Full Stack Developer focused on building modern, responsive, and scalable web applications.
 
+# Hi, I'm Monarch 👋
+
+Frontend & Full Stack Developer focused on building modern, responsive, and scalable web applications.
+
 ## 🚀 Tech Stack
 ## 🚀 Tech Stack
 
@@ -15,6 +19,14 @@ Frontend & Full Stack Developer focused on building modern, responsive, and scal
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
 </p>
+
+## 💡 What I Do
+I build clean UI, optimized web apps, and full-stack systems using modern JavaScript technologies.
+
+## 📫 Reach Me
+Portfolio: https://monarchportfolio.vercel.app/  
+Email: monarchpagcas@gmail.com
+
 
 ## 💡 What I Do
 I build clean UI, optimized web apps, and full-stack systems using modern JavaScript technologies.
