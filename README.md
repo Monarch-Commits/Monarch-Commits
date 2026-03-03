@@ -1,10 +1,9 @@
 # Hi, I'm Monarch 👋
 
-Frontend & Full Stack Developer focused on building modern, responsive, and scalable web applications.
+**Frontend & Full-Stack Developer** passionate about building **modern, responsive, and scalable web applications**.  
+I love crafting clean UI, optimizing performance, and writing maintainable code.
 
-# Hi, I'm Monarch 👋
-
-Frontend & Full Stack Developer focused on building modern, responsive, and scalable web applications.
+---
 
 ## 🚀 Tech Stack
 
@@ -17,17 +16,21 @@ Frontend & Full Stack Developer focused on building modern, responsive, and scal
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 💡 What I Do
-I build clean UI, optimized web apps, and full-stack systems using modern JavaScript technologies.
-
-## 📫 Reach Me
-Portfolio: https://monarchportfolio.vercel.app/  
-Email: monarchpagcas@gmail.com
-
+---
 
 ## 💡 What I Do
-I build clean UI, optimized web apps, and full-stack systems using modern JavaScript technologies.
+- Build **scalable full-stack applications** with React, Next.js, and TypeScript  
+- Develop **clean, modern UIs** with Tailwind CSS  
+- Design and maintain **databases and APIs** with Prisma, PostgreSQL, and Firebase  
+- Optimize **performance, SEO, and accessibility** for production-grade apps  
 
-## 📫 Reach Me
-Portfolio: https://monarchportfolio.vercel.app/  
-Email: monarchpagcas@gmail.com
+---
+
+## 📫 Get In Touch
+- 🌐 Portfolio: [monarchportfolio.vercel.app](https://monarchportfolio.vercel.app/)  
+- ✉️ Email: [monarchpagcas@gmail.com](mailto:monarchpagcas@gmail.com)  
+- ⚡ Fun Fact: I write code that looks neat on **all devices** and **never repeats years in tables** 😎
+
+---
+
+> "Code is not just about logic, it’s about **crafting experiences**."  
