@@ -1,36 +1,33 @@
-# <p style="font-family: 'Poppins', sans-serif;">Hi, I'm Monarch 👋</p> 
+# Hi, I'm Monarch 👋
 
-**Frontend & Full-Stack Developer** passionate about building **modern, responsive, and scalable web applications**.  
-I love crafting clean UI, optimizing performance, and writing maintainable code.
+Frontend-first Web Developer with full-stack capability.
 
----
+I build fast, clean, and user-focused web applications using Next.js, React, and TypeScript, with experience in full-stack development using Prisma, PostgreSQL, and authentication systems when needed.
 
-## 🚀 Tech Stack
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+I care about the small details — focusing on performance, usability, and smooth user experiences.
 
 ---
 
-## 💡 What I Do
-- Build **scalable full-stack applications** with React, Next.js, and TypeScript  
-- Develop **clean, modern UIs** with Tailwind CSS  
-- Design and maintain **databases and APIs** with Prisma, PostgreSQL, and Firebase  
-- Optimize **performance, SEO, and accessibility** for production-grade apps  
+## 🧠 What I Do
+
+- Frontend Development (Next.js, React, Tailwind CSS)
+- Full-Stack Web Applications
+- SaaS & Dashboard Systems
+- UI/UX-focused Web Design
+- Performance Optimization
 
 ---
 
-## 📫 Get In Touch
-- 🌐 Portfolio: [monarchportfolio.vercel.app](https://monarchportfolio.vercel.app/)  
-- ✉️ Email: [monarchpagcas@gmail.com](mailto:monarchpagcas@gmail.com)  
-- ⚡ Fun Fact: I write code that looks neat on **all devices** and **never repeats years in tables** 😎
+## ⚙️ Tech Stack
+
+Next.js • React • TypeScript • Tailwind CSS • Framer Motion
+Node.js • Prisma • PostgreSQL • Firebase • Git
 
 ---
 
-> "Code is not just about logic, it’s about **crafting experiences**."  
+## 📫 Contact
+
+Email: [monarchpagcas@gmail.com](mailto:monarchpagcas@gmail.com)
+Portfolio: https://monarchs-portfolio.vercel.app/
+
+
